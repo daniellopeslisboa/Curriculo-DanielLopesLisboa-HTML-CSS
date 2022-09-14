@@ -1,0 +1,31 @@
+body{
+	background-color:#F0FFFF;
+	margin:50px 300px 75px 140px;
+	border-style: groove;
+}
+	
+h1{padding: 0px 50px 0px 225px;
+font-size: 45px;
+}
+
+#foto-Daniel{
+	Border-radius:50%;
+	border: 1px dotted black;
+	margin: 0px 0px 0px 20px;
+}
+
+.dados-pessoais{
+	border-style: double;
+	margin: 0px 300px 0px 300px;
+	position: absolute;
+	right: 85px;
+	left: 90px;
+	top: 250px;
+}
+body{
+	color: #00688B;
+}	
+
+h1,h2{
+	color: #00008B;
+}
